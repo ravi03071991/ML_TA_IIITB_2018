@@ -1,4 +1,4 @@
-This file contains the tutorials conducted in the ML tutorial class of August 1st, 2018
+This folder contains the tutorials conducted in the ML tutorial class of August 1st, 2018
 
 Two main topics are covered.
 
