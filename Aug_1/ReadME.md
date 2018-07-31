@@ -10,4 +10,4 @@ iPython notebooks can be opened using Jupyter notebook
 
 Jupyter notebook can be installed using the following command
 
-*pip3 install jupyter*
+**pip3 install jupyter**
