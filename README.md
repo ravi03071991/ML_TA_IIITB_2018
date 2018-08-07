@@ -7,4 +7,10 @@ This repository contains TA sessions work for the Machine Learning course, Aug '
 * Python3
 * Numpy
 * Pandas 
+* openCV
+* Scipy
+* Scikit-learn
+* PIL
+
+
 
