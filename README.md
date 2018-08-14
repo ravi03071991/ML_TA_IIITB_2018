@@ -13,4 +13,10 @@ This repository contains TA sessions work for the Machine Learning course, Aug '
 * PIL
 
 
+# Teaching Assistants
+* Pratheeksha Nair
+* Chandana Kotta
+* Ravi Theja
+* Bhavuk Sharma
+* Ahmad Shayaan
 
