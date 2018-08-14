@@ -15,7 +15,7 @@ This repository contains TA sessions work for the Machine Learning course, Aug '
 
 # Teaching Assistants
 * Pratheeksha Nair
-* Chandana Kotta
+* Chandana Kotta: https://www.linkedin.com/in/chandana-k-b43871a7/
 * Ravi Theja
 * Bhavuk Sharma
 * Ahmad Shayaan
