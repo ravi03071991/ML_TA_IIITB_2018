@@ -6,10 +6,12 @@ This repository contains TA sessions work for the Machine Learning course, Aug '
 
 * Python3
 * Numpy
-* Pandas 
-* openCV
+* Pandas
 * Scipy
 * Scikit-learn
+* MatplotLib
+* Seaborn
+* openCV
 * PIL
 
 
