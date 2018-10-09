@@ -14,6 +14,9 @@ This repository contains TA sessions work for the Machine Learning course, Aug '
 * openCV
 * PIL
 
+# Course Instructors
+* Prof. G. Srinivasaraghavan: https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan
+* Prof. Neelam Sinha: https://www.iiitb.ac.in/faculty_page.php?name=neelamsinha
 
 # Teaching Assistants
 * Pratheeksha Nair
